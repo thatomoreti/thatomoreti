@@ -1,4 +1,4 @@
-# Hi, I'm Thato 👋
+# Hi, I'm Karabo  👋
 
 🎓 BA Politics, Economics & Informatics — University of Johannesburg (Graduating April 2026)  
 💻 Backend & Full‑Stack Developer | Scalable Systems | Public‑Interest Tech  
